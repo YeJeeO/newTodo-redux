@@ -1,0 +1,48 @@
+body {
+	background-color: #e0c9f3;
+ 	text-align: center;
+  }
+   
+  input {
+	padding: 17px;
+	font-size: 20px;
+	border-radius: 5px 0 0 5px;
+	border: none;
+  }
+  
+  button.submit {
+	padding: 19px;
+	font-size: 17px;
+	background-color: #530456;
+	color: #fff;
+	border: none;
+	border-radius:  0 5px 5px 0;
+	  }
+
+ul {
+	padding: 0;
+	margin: 50px;
+  }
+    li {
+	display: flex;
+	align-items: center;
+	background-color: rgb(215, 182, 239); 
+	font-size: 20px;
+	border: 2px solid black; 
+	border-radius: 5px;
+	margin: 2px;
+		}
+    
+  button.delete {
+	background-color: #530456;
+	color: whitesmoke;
+	border-radius: 5px;
+	margin-left: auto;
+	border: none;
+	width: 85px;
+	height: 45px;
+  }
+ 
+  
+ 
+
